@@ -1,0 +1,14 @@
+C:\Users\yasmi\Desktop\projetoCSharp\bin\Debug\net10.0\projetoCSharp.exe
+C:\Users\yasmi\Desktop\projetoCSharp\bin\Debug\net10.0\projetoCSharp.deps.json
+C:\Users\yasmi\Desktop\projetoCSharp\bin\Debug\net10.0\projetoCSharp.runtimeconfig.json
+C:\Users\yasmi\Desktop\projetoCSharp\bin\Debug\net10.0\projetoCSharp.dll
+C:\Users\yasmi\Desktop\projetoCSharp\bin\Debug\net10.0\projetoCSharp.pdb
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.AssemblyInfoInputs.cache
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.AssemblyInfo.cs
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.dll
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\refint\projetoCSharp.dll
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.pdb
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\projetoCSharp.genruntimeconfig.cache
+C:\Users\yasmi\Desktop\projetoCSharp\obj\Debug\net10.0\ref\projetoCSharp.dll
